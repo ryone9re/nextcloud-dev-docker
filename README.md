@@ -2,7 +2,7 @@
 
 ## How to use
 
-Put in your app to the `customapps` directory.
+Put in your app to the `nextcloud/apps/` directory.
 
 Then run it
 
@@ -14,4 +14,4 @@ After execution, nextcloud developing container will launch at `localhost:8080`.
 
 Proceed to setup.
 
-_notice: Should not install recommended apps if you want to test your app._
+_notice: you should not install recommended apps if you want to test your app only._
