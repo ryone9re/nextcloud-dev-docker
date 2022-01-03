@@ -13,7 +13,7 @@ services:
 
   app:
     container_name: app
-    build: ./app
+    build: ./nextcloud
     restart: always
     volumes:
       - app:/var/www/nextcloud
